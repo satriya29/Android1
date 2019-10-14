@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Nama">Satriya Bagus Santoso</string>
+    <string name="Nim">5170411159</string>
+    <string name="Prodi">Teknik Informatika</string>
+    <string name="simpan">SAVE</string>
+    <string name="batalkan">CANCEL</string>
+</resources>
