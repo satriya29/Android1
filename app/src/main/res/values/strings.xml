@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="Nama">Satriya Bagus Santoso</string>
+    <string name="app_name">Should be name of an application</string>
+    <string name="Nama">I have no name since i born</string>
     <string name="Nim">5170411159</string>
     <string name="Prodi">Teknik Informatika</string>
-    <string name="simpan">SAVE</string>
-    <string name="batalkan">CANCEL</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="batalkan">BATAL</string>
 </resources>
